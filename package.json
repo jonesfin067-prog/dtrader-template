@@ -9,6 +9,7 @@
         "node": "^24.22.1"
     },
     "overrides": {
+        "pify": "5.0.0",
         "eslint": "^8.57.1",
         "react-dom": "^18.2.0",
         "nth-check": "2.0.1",
